@@ -1,0 +1,7 @@
+{
+  "name": "BioCount AI",
+  "description": "AI-powered web application to capture images via webcam and count individuals/specimens using Gemini Vision API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
